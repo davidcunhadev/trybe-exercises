@@ -1,0 +1,1 @@
+Nos dias 1 e 2 sobre HTML e CSS, o exercício foi realizado em outro repositório.
