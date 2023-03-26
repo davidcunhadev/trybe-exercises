@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+}
+
+main {
+    background-color: lightgray;
+    padding-top: 1px;
+}
+
+header {
+    background-color: aqua;
+    padding-top: 10px;
+
+}
+
+header h1 {
+    text-align: center;
+    font-family: Catamaran;
+    font-size: 40px;
+}
+
+header nav {
+    text-align: center;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+header nav a {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    margin-inline: 250px;
+}
+
+article h2 {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    font-family:sans-serif;
+    font-weight: bolder;
+}
+
+section h3 {
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+section p {
+    margin-left: 40px;
+    margin-bottom: 10px;
+    max-width: 75%;
+}
+
+#stomatopoda-descricao {
+    float: right;
+    width: 250px;
+    margin-right: 95px;
+    clear: both;
+    border: 3px solid grey;
+    border-radius: 10px;
+}
+
+table {
+    margin: 25px;
+    margin-left: 30%;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.colunas-table th{
+    padding: 10px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.colunas-table td {
+    padding: 10px;
+    border-right: 1px solid black;
+}
+
+
