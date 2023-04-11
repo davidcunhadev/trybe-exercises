@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscando Elementos</title>
+</head>
+<body>
+    <main id="parent-of-parent">
+        <section id="parent">
+          <section id="first-child"></section>
+          <section id="where-are-you">
+            <section id="first-child-of-child"></section>
+          </section>
+          Attention!
+          <section id="third-child"></section>
+          <section id="fourth-and-last-child"></section>
+        </section>
+      </main>
+
+      <script>
+        const cadeVc = document.getElementById("where-are-you");
+        
+        const papai = cadeVc.parentNode;
+        papai.style.color = 'green';
+        
+        const addText = document.getElementById("first-child-of-child").innerText = 'Oi sou um texto novo!';
+
+        const acessaFirstChild = papai.firstElementChild;
+        
+        const acessaFirstChild2 = cadeVc.previousElementSibling;
+        
+        const acessaAttention = cadeVc.nextSibling;
+        
+        const acessaThirdChild = cadeVc.nextElementSibling;
+        
+        const acessaThirdChild2 = papai.lastElementChild.previousElementSibling;
+        console.log(acessaThirdChild2);
+      </script>
+</body>
+</html>
