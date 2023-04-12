@@ -1,0 +1,3 @@
+Hoje na terceira aula da seção 04 sobre DOM(Document Object Model), aprendemos sobre eventos e como se comportam numa página da web.
+Os eventos agem na página como uma maneira de ´reagir´ com a interação da pessoa usuária, através de eventos tais quais como: rolar a tela, passar o mouse por um elemento, clique do mouse e digitar no teclado.
+Os exercícios do conteúdo foram passados em outro repositório separado.
