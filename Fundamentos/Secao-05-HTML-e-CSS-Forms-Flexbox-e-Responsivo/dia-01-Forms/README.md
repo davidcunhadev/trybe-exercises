@@ -1,0 +1,2 @@
+Hoje na primeira aula da seção 05 de fundamentos sobre FORMS, tivemos sua introdução e definição. Aprendemos também sobre suas respectivas tags de input, types e attributes, vimos também sobre o ¨preventDefault¨ e tivemos a criação de um formulário durante a aula ao vivo. 
+Os exercícios do dia foram realizados em outro repositório.
