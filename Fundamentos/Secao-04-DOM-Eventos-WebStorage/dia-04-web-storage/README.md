@@ -1,0 +1,1 @@
+Hoje na quarta aula da seção 04 sobre DOM(Document Object Model), aprendemos sobre "localStorage" e "sessionStorage" e suas respectivas funcionalidades na página, podendo tanto salvar o conteúdo "para sempre" no navegador do usuário, através do localStorage, ou apenas salvar por um determinado tempo, como até ao fechar o navegador, por exemplo, através da sessionStorage.
