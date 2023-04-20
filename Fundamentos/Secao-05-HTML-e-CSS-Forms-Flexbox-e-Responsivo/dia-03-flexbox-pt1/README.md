@@ -1,0 +1,2 @@
+Hoje na terceira aula da seção 05 de fundamentos sobre FLEXBOX, tivemos sua introducão e definição. Aprendemos como criar o container da flexbox, entender seus conceitos de direções para enfim manipulá-lo. Em seguida vimos também sobre os flex-itens que ficam dentro dos containers, suas propriedades e seus respectivos conceitos de utilização.
+As atividades do dia foram realizadas em outro repositório separado.
