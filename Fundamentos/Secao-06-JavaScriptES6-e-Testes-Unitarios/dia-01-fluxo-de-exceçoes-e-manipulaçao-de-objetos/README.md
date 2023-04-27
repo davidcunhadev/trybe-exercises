@@ -1,0 +1,2 @@
+Hoje na primeira aula da seção 06 de fundamentos sobre Fluxo de Exceçoẽs, tivemos sua introdução e modelo de utilização através das propriedades "Throw", "Try","Catch" e "Finally". Utilizando dos mesmos para lançar uma mensagem personalizada de erro para o usuário quando o mesmo inserir dígitos inválidos com o que foi pedido.
+Os exercícios do dia foram realizados em outro repositório.
