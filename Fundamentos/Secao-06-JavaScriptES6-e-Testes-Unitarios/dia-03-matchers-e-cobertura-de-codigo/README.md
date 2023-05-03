@@ -1,0 +1,2 @@
+Hoje na aula 03 da seção 06 de fundamentos, tivemos a introdução, definição e aplicação de "matchers" em nossos testes unitários. Junto também vimos cobertura de testes para estarmos sempre atentos de qual a porcentagem de código que nossos testes estão cobrindo.
+Os exercícios do dia foram realizados em outro repositório.
