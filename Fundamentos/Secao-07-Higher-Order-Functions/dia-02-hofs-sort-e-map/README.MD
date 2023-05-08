@@ -1,0 +1,2 @@
+Hoje na aula 02 da seção 07 sobre fundamentos, aprendemos sobre as HOF's '.sort' e '.map', tivemos suas respectivas definições e exemplos de aplicações durante a aula ao vivo.
+Os exercícios do dia foram realizados em outro repositório.
