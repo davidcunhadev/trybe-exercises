@@ -1,0 +1,2 @@
+Hoje na aula 02 da seção 02 sobre frontend, aprendemos sobre Componentes React e Props, e também mais detalhes sobre o TypeScript, tivemos suas definições e exemplos de utilização no conteúdo do course. E por fim também vimos sobre a Renderização Condicional, tudo isso foi reforçado também durante o período da aula ao vivo.
+Os exercícios do dia foram realizados em outro repositório. 
