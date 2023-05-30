@@ -1,0 +1,2 @@
+Hoje na aula 03 da seção 02 sobre frontend, aprofundamos nosso conhecimento em componentes de maneira mais avançada, através da renderização de listas, prop children, estilização de componentes, exportação e importação de recursos e também a utilização de imagens no React, foram também exemplificados durante a aula ao vivo.
+Os exercícios do dia foram realizados em outro repositório.
