@@ -1,0 +1,2 @@
+Hoje na aula 05 da seção 02 de frontend, tivemos a introdução dos Estados e Eventos em nossas aplicações React e como se comportam na execução do código. Vimos também sobre Hooks, mais especificamente o useState, no qual nos permitem auxiliar funcionalidades aos componentes de determinada função.
+Os exercícios do dia foram realizados em outro repositório.
