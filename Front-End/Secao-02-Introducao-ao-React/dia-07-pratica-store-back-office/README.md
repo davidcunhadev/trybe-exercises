@@ -1,0 +1,1 @@
+Hoje na aula 07 da seção 02 de frontend, fizemos uma atividade prática individual. Através do exercício "Store Back Office", praticamos o uso de estados e eventos via React, junto com a criação de um formulário onde manipulamos as respectivas informações para cadastrar produtos inseridos.
