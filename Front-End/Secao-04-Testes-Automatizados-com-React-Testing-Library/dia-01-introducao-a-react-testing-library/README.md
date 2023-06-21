@@ -1,0 +1,2 @@
+Hoje na aula 01 da seção 04 de frontend, aprendemos sobre a importancia dos testes automatizados nas aplicações do dia-a-dia de um dev. Utilizamos o React Testing Library e o usamos para aprender a como configurar o ambiente de testes, suas devidas utilizações na prática e reforçamos o conteúdo durante o período da aula ao vivo.
+Os exercícios do dia foram realizados em outro repositório.
