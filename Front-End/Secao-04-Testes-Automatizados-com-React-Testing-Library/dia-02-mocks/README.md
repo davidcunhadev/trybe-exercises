@@ -1,0 +1,2 @@
+Hoje na aula 02 da seção 04 de frontend, tivemos a introdução de "mocks", no qual nos ajuda a ter maior controle dos testes, transformando a função em uma simulação para assim sabermos o comportamento da mesma através do mock que definimos. Vimos também como mockar módulos e as próprias funções originais, limpeza de mocks, e mock de fetch's.
+Os exercícios do dia foram realizados em outro repositório.
