@@ -1,0 +1,1 @@
+Hoje na aula 01 da seção 05 de frontend, tivemos a introdução do CSS Modules e sua utilização em prática através da aula ao vivo, e logo após fizemos um desafio prático implementando a estilização de um protótipo do figma de um formulário de inscrição utilizando o CSS Modules. 
