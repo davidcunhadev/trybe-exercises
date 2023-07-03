@@ -1,0 +1,2 @@
+Hoje na aula 03 da seção 04 de frontend, tivemos a introdução do React Router. Através dele configuramos os testes para cuidar das rotas da aplicação, e também criamos uma função "helper" para facilitar a implementação dos testes nas rotas. 
+Os exercícios do dia foram realizados em outro repositório.
