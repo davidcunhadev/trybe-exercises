@@ -1,0 +1,3 @@
+Hoje na aula 03 da seção 05 de frontend, tivemos a introdução de várias metodologias ágeis utilizadas por uma equipe de desenvolvimento e também em vários outros ambientes profissionais em diversos projetos. Métodos no qual buscam promover um processo de gerenciamento de projetos, maior trabalho em equipe, a auto-organização, a comunicação frequente, o foco no cliente e a entrega de valor.
+Aprendemos também sobre Kanban, no qual o mesmo busca uma maneira simples e visual de organizar as tarefas e o fluxo de trabalho, tornando tudo muito mais eficiente.
+E por fim, tivemos a introdução do Scrum e Sprint, no qual é um framework para gestão e planejamento de projetos.
