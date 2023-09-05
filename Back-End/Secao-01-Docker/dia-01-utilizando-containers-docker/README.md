@@ -1,0 +1,1 @@
+Hoje na aula 01 da seção 01 de Backend, tivemos uma aula dedicada para o entendimento de Docker e o primeiro contanto com a utilizacão de seus respectivos Containers. Aprendemos também vários comandos para usar nos containers, seus conceitos iniciais e também alguns comandos avançados no Docker, tanto na aula ao vivo como também de maneira prática.
