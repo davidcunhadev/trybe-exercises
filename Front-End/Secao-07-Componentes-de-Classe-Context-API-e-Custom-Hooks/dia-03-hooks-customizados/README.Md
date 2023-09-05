@@ -1,1 +1,1 @@
-Hoje na aula 03 da seção 07 de Frontend, aprendemos a como criar nossos próprios Hooks personalizados para utilizar em uma aplicação React, assim também como a importância deles, tanto na prática quanto na aula ao vivo.
+Hoje na aula 03 da seção 07 de Frontend, aprendemos a como criar nossos próprios Hooks personalizados para utilizar em uma aplicação React, assim também como a importância deles quando trabalhamos com vários trechos de código que se repetem, onde esses Hooks podem nos ajudar a poupar bastante tempo.
