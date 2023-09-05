@@ -1,0 +1,1 @@
+Hoje na aula 01 da seção 07 de Frontend, aprendemos sobre os componentes de classe no React. Vimos também na aula ao vivo a criação da aplicação com componentes de classe, seus respectivos métodos e como funciona o ciclo de vida desses componentes.
