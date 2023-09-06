@@ -1,0 +1,1 @@
+Hoje na aula 02 da seção 01 de Backend, aprofundamos os conhecimentos na manipulação de imagens no Docker e diversos comandos referentes ao arquivo do Dockerfile. Aprendemos a como criar e remover imagens, criar e configurar nosso primeiro servidor Web, e, vimos também a diferença entre RUN,ENTRYPOINT, e, CMD no arquivo Dockerfile.
