@@ -1,0 +1,2 @@
+Hoje na aula 02 da seção 02 de Backend, vimos sobre o que é uma Query e sua funcionalidade, assim como as querys utilizadas no MySQL e cada respectiva função atreladas à elas. Sendo as mais utilizadas: SELECT, CONCAT, DISTINCT, COUNT, LIMIT, LIMIT OFFSET e ORDER BY.
+Os exercícios do dia foram realizados em outro repositório.
