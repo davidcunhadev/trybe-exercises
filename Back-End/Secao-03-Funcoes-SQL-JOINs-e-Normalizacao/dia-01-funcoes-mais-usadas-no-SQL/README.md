@@ -1,0 +1,1 @@
+Hoje na aula 01 da seção 03 de Backend, continuamos com a introdução de mais funções usadas no MySQL e suas respectivas funcionalidades, no qual englobam a manipulação de strings, condicionais, funções matemáticas, datas, funções de agregação e filtros de dados de forma agrupada. Cada uma foi reforçada durante o período da aula ao vivo juntamente com a resolução de exercícios.
