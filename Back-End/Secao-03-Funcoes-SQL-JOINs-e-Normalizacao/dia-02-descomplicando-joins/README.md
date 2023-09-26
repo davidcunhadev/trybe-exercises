@@ -1,0 +1,2 @@
+Hoje na aula 02 da seção 03 de Backend, tivemos a introdução dos JOINS, que basicamente usado para combinar em um mesmo resultado registros de duas ou mais tabelas. Tendo consigo alguns tipos diferentes de JOIN's, sendo eles: INNER JOIN, LEFT JOIN, RIGHT JOIN, e, SELF JOIN.
+Vimos na aula ao vivo a diferença e a utilização de cada um na prática.
