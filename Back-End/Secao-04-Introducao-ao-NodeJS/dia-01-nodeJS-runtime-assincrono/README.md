@@ -1,0 +1,3 @@
+Hoje na aula 01 da seção 04 de Backend, começamos com a introdução do Node.js, juntamente com seu sistema de módulos que podem ser exportados/importados e como fazê-los. Tivemos também a introdução do NPM no qual é o repositório oficial para publicações de pacotes Node.js, e, como usá-lo para fazer um script com o Node.js.
+E por fim vimos sobre o fluxo contínuo, que são as tarefas realizadas por trás dos panos que podem ser feitas de maneira assíncrona com o async/await para deixar o fluxo de execução o mais eficiente possível.
+Todos os conceitos foram reforçados durante a aula ao vivo..
