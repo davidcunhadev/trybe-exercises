@@ -1,6 +1,7 @@
 const express = require('express');
 
 const app = express();
+
 const apiCredentials = require('./middlewares/apiCredentials');
 const teamsRouter = require('./routes/teamsRouter');
 const validateTeam = require('./middlewares/validateTeam');
@@ -46,7 +47,7 @@ app.post('/teams', (req, res) => {
   res.status(201).json({ team: newTeam });
 });
 
-// atualizando dados de um respectivo time da API
+// atualizando dados de apenas um time da API
 app.put('/teams/:id', validateTeam, (req, res) => {
   const { id } = req.params;
   const { name, initials } = req.body;
@@ -62,7 +63,7 @@ app.put('/teams/:id', validateTeam, (req, res) => {
   res.status(200).json({ updateTeam });
 });
 
-// deletando um respectivo time da API
+// deletando um de apenas um time da API
 app.delete('/teams/:id', (req, res) => {
   const id = Number(req.params.id);
   const team = teams.find((t) => t.id === id);
