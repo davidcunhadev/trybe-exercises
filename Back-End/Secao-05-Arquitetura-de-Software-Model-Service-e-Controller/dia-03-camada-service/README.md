@@ -1,0 +1,1 @@
+Hoje no dia 03 da seção 05 de Backend, continuamos com a arquitetura de camadas e tivemos a introdução da camada Service, na qual irá lidar com as regras de negócio da aplicacão, fazendo validações referentes as requisições e se as mesmas contém os dados necessários para que a camada service realize seu trabalho.
