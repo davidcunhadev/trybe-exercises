@@ -1,0 +1,2 @@
+Hoje no dia 04 da seção 05 de Backend, fizemos a refatoração da camada service removendo algumas validações que estavam diretamente no app e trazendo as mesmas para a camada de service, assim como juntamente com a criação de mais validações para aperfeiçoar a eficácia da camada.
+Os conceitos foram também revistos na aula ao vivo.
