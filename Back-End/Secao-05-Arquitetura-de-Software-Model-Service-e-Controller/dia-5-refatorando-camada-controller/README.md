@@ -1,0 +1,1 @@
+Hoje na aula 05 da seção 05 de Backend, fizemos a refatoração da camada controller da nossa aplicação, trazendo para essa camada apenas as requisições e as respostas (req & res) referentes aos métodos utilizados para cada função da aplicação. Visando de maneira a deixar o código cada vez mais organizado e fácil para ler e compreender.
