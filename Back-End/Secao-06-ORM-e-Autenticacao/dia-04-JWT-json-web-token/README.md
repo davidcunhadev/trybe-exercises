@@ -1,0 +1,2 @@
+Hoje na aula 04 da seção 06 de Backend, tivemos a introdução do JWT (Json Web Token), sua funcionalidade e importância. Sendo assim, basicamente o JWT é um token gerado a partir de dados “pessoais” que pode ser trafegado pela internet ao fazer requisições para APIs e afins. O mecanismo de segurança do JWT permite, no entanto, que apenas quem tem a senha consiga alterar as informações contidas em um token.
+Os conceitos e códigos do JWT foram reforçados durante a aula ao vivo.
