@@ -1,0 +1,2 @@
+Hoje na aula 01 da seção 08 de Backend, tivemos a introdução e aprendizado dos primeiros passos em TypeScript e por que ele tem se tornado cada vez mais relevante no mundo da programação. Vimos sobre como instalá-lo, confirá-lo e utilizá-lo, juntamente com a teoria de tipagens, compilador, transpilador, type aliases e union types.
+Os conceitos foram reforçados através da aula ao vivo e dos exercícios do dia.
