@@ -1,0 +1,2 @@
+Hoje na aula 02 da seção 08 de Backend, aprofundando ainda mais no TypeScript, estudamos sobre os Generics, o que são, como e quando utilizá-los.
+Juntamente também vimos sobre o que são Type Assertions e sua importância pois é uma ferramenta que deve ser utilizada com muito cuidado, já que não garante a tipagem como normalmente faz, e, devemos usá-lo somente se realmente soubermos a estrutura de tipo esperada para uma variável ou um objeto. Os conceitos foram revisados durante o período da aula ao vivo juntamente com a resolução de exercícios.
