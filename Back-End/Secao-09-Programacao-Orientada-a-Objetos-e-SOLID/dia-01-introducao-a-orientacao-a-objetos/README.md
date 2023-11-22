@@ -1,0 +1,2 @@
+Hoje na aula 01 da seção 09 de Backend, tivemos a introdução da Programação Orientada a Objetos (POO). Seus conceitos tais como o que são e para que servem Classes, Objetos, Atributos, Métodos, juntamente com os pilares da POO como: Abstração, Encapsulamento, Herança, e Polimorfismo.
+Os conceitos foram vistos e revisados durante a aula ao vivo e com exercícios.
