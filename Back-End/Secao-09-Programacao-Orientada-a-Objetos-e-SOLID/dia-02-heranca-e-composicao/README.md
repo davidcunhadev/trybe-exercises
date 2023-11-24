@@ -1,0 +1,3 @@
+Hoje na aula 02 da seção 09 de Backend, aprendemos sobre mais fundamentos da Programação Orientada a Objetos, como por exemplo, herança e composição. Onde resumidamente a herança permite que classes mais específicas sejam criadas a partir de classes mais genéricas. Já a composição de objetos/classes é uma forma de combinar objetos ou tipos de dados para construir sua estrutura.
+Vimos também sobre Interfaces, que descreve o objeto como um contrato a ser seguido.
+Os conceitos foram também revisados durante a aula ao vivo.
