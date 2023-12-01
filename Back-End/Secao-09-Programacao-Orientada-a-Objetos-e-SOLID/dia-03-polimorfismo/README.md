@@ -1,0 +1,2 @@
+Hoje na aula 03 da seção 09 de Backend, continuamos para o último conceito da Programação Orientada a Objetos (POO), dando ênfase ao pilar do Polimorfismo. Sendo ele, utilizado quando um método implementado em uma superclasse é reimplementado numa subclasse, comportando-se de forma diferente, como se fosse uma sobrescrita de métodos.
+Os conceitos foram revisados e aplicados durante a aula ao vivo.
