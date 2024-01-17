@@ -1,0 +1,2 @@
+Hoje no dia 01 da seção 01 de Ciência da Computação, tivemos a introdução à Python e seus conceitos básicos como o primeiro contato com comandos via terminal em Python, assim também como declarações de variáveis, estruturas condicionais, laços de repetição, operações aritméticas e funções referentes a linguagem.
+Os conceitos foram também revisados durante o período de aula ao vivo.
