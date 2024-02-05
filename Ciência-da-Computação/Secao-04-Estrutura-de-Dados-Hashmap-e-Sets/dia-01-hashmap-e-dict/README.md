@@ -1,0 +1,3 @@
+Hoje na aula 01 da seção 04 e última de Ciência da Computação, dando continuidade as estruturas de dados, tive a introdução do Hashmap e Dict. Resumidamente, o Hashmap utiliza um conceito muito popular na computação: o Hashing. Que significa transformar um dado em uma representação numérica única. O procedimento de hashing tem uso em criptografia, armazenamento de senhas e compressão de arquivos, por exemplo.
+Já os Dicionários (Dict), por sua vez, são estruturas de dados do tipo chave-valor que são implementados como hashmaps por baixo dos panos.
+Os conteúdos foram abordados e reforçados também durante o período de aula ao vivo.
